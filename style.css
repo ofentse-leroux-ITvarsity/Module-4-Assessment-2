@@ -60,3 +60,7 @@ body{
     top: 400px;
     left: 400px;
 }
+
+img{
+    float: right;
+}
